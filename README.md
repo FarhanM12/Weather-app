@@ -26,12 +26,12 @@ Here's a short video demonstrating the Get Started page and its animations:
 
 [![Get Started Page Animation](Screenshots/get_started.mp4)
 
-Replace `screenshots/get_started_animation.gif` with the path to your video file (assuming it's in the `screenshots` folder).
+
 
 #### Screenshots
 
 - ![Home Screen](Screenshots/home_page.jpeg)
-- ![Weather Details Screen](Screenshots/weather_details.jpeg)
+- ![Weather Details Screen](Screenshots/weather_detail.jpeg)
 
 #### Installation
 
