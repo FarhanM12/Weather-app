@@ -24,7 +24,7 @@ This Flutter application provides current weather information for any city using
 
 Here's a short video demonstrating the Get Started page and its animations:
 
-[![Get Started Page Animation](Screenshots/get_started.mp4)
+[![Get Started Page Animation](Screenshots/get_started.mp4)]
 
 
 
